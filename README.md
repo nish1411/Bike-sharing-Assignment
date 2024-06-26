@@ -1,4 +1,4 @@
-# Lending Club Case Study
+# Bike Sharing Assignment
 > This project involves analyzing bike-sharing data set to identify the variables affecting the demand of shared bikes. This assignment involves building a multiple linear regression model for the prediction of demand for shared bikes. The analysis uses Python and its data analysis libraries, focusing on Multiple linear Regression model using RFE analysis to understand the demand dynamics of a new market. 
 
 <br>
