@@ -6,11 +6,8 @@
 >## Table of Contents
 * [General Info](#general-information)
 * [Approach](#Approach)
-* [Analysis](#analysis-steps-and-observations)
-* [Business Recommendations](#business-recommendations)
 * [Conclusions](#conclusion)
 * [Technologies Used](#technologies)
-* [Files](#files-in-the-project)
 * [Contributors](#contributors)
 
 >## General Information
@@ -47,7 +44,7 @@ Bike Sharing dataset on daily bike demands across the American market through th
 - Scikit-learn version: 1.3.0
  
 
-## Conclusion
+>## Conclusion
 Significant variables to predict the demand for shared bikes
 
 - year
